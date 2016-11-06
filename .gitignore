@@ -1,0 +1,5 @@
+build
+dist
+tw2.jqplugins.lightbox.egg-info
+*.py?
+/tw2/jqplugins/lightbox/static
