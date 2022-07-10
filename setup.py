@@ -60,7 +60,7 @@ class my_develop(develop, copy_files_mixin):
 
 setup(
     name="tw2.jqplugins.lightbox",
-    version="2.9.0",
+    version="2.11.3",
     description="ToscaWidgets 2 wrapper for Lightbox",
     author="Nils Philippsen",
     author_email="nils@tiptoe.de",
